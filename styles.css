@@ -431,8 +431,7 @@
     background:var(--accent);
   }
   .skill-icon{ width:18px; height:18px; object-fit:contain; flex-shrink:0; }
-  html[data-theme="dark"] .skill-icon.brand{ filter:invert(1) brightness(1.15); }
-  .skill-icon.spark{ color:var(--accent); }
+  html[data-theme="dark"]
 
   /* ---------- Experience timeline ---------- */
   .timeline{ position:relative; }
