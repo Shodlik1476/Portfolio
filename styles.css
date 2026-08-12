@@ -430,8 +430,8 @@
     width:6px; height:6px;
     background:var(--accent);
   }
-  .skill-icon{ width:24px; height:24px; object-fit:contain; flex-shrink:0; background-color: #fff; padding: 4px; }
-  html[data-theme="dark"] .skill-icon brand { background-color: #ffffff; padding: 4px;}
+  .skill-icon{ width:24px; height:24px; object-fit:contain; flex-shrink:0; background-color: #fff; padding: 4px; backgroun-radius: 8px; }
+  html[data-theme="dark"]
 
   /* ---------- Experience timeline ---------- */
   .timeline{ position:relative; }
